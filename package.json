@@ -1,0 +1,30 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "My blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "cldev": "vuepress dev docs --no-cache ",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fromann/SunShine.git"
+  },
+  "keywords": [
+    "Sunshine",
+    "小安",
+    "博客",
+    "Froan"
+  ],
+  "author": "小安同学",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fromann/SunShine/issues"
+  },
+  "homepage": "https://github.com/fromann/SunShine#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  }
+}
